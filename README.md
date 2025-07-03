@@ -1,1 +1,1 @@
-## This blog about my development jorney
+## This blog about my development jorney.
